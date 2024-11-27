@@ -1,4 +1,4 @@
-## Live Demo heree
+## Live Demo 
 
 You can view the live demo of this landing page here:
 
